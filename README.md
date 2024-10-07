@@ -11,4 +11,4 @@ pip install -r requirements.txt
 python main.py
 
 ## data folder contains all of the necessary files.
-##data_processing folder contains the files used to obtain do the preprocessing.
+data_processing folder contains the files used to obtain do the preprocessing.
