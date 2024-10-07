@@ -8,6 +8,7 @@ This project classifies Large Language Models (GPT-2, GPT-Neo, Facebook OPT, Gem
 ## Steps to Run
 
 pip install -r requirements.txt
+
 python main.py
 
 ## data folder contains all of the necessary files.
